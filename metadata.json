@@ -1,0 +1,6 @@
+{
+  "name": "Đặc Tả Kỹ Thuật — Hệ Thống Gia Phả Dòng Họ (GPDH)",
+  "description": "Bản Đặc Tả Kỹ Thuật chi tiết phân tích mã nguồn itvnclub/gpdh (Classic ASP + SQL Server & Landing Page), hỗ trợ xem trực tuyến và tải xuống bản PDF chuẩn A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

